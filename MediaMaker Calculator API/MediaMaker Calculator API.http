@@ -1,0 +1,6 @@
+@MediaMaker_Calculator_API_HostAddress = http://localhost:5137
+
+POST {{MediaMaker_Calculator_API_HostAddress}}/calculator/add
+Accept: application/json
+
+###

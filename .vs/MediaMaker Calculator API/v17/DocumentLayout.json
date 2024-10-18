@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|c:\\users\\harp1\\source\\repos\\mediamaker calculator api\\mediamaker calculator api\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|solutionrelative:mediamaker calculator api\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|c:\\users\\harp1\\source\\repos\\mediamaker calculator api\\mediamaker calculator api\\services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|solutionrelative:mediamaker calculator api\\services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|c:\\users\\harp1\\source\\repos\\mediamaker calculator api\\mediamaker calculator api\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|solutionrelative:mediamaker calculator api\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|c:\\users\\harp1\\source\\repos\\mediamaker calculator api\\mediamaker calculator api\\calculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|solutionrelative:mediamaker calculator api\\calculationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|c:\\users\\harp1\\source\\repos\\mediamaker calculator api\\mediamaker calculator api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|solutionrelative:mediamaker calculator api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E8CD44-B531-4197-BAFD-5DB5619EB0CD}|MediaMakerCalculatorAPI.UnitTests\\MediaMakerCalculatorAPI.UnitTests.csproj|c:\\users\\harp1\\source\\repos\\mediamaker calculator api\\mediamakercalculatorapi.unittests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E8CD44-B531-4197-BAFD-5DB5619EB0CD}|MediaMakerCalculatorAPI.UnitTests\\MediaMakerCalculatorAPI.UnitTests.csproj|solutionrelative:mediamakercalculatorapi.unittests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|c:\\users\\harp1\\source\\repos\\mediamaker calculator api\\mediamaker calculator api\\mediamaker calculator api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4DA7E23A-7EAA-446A-88AF-4E00AE655538}|MediaMaker Calculator API\\MediaMaker Calculator API.csproj|solutionrelative:mediamaker calculator api\\mediamaker calculator api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "MediaMaker Calculator API\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "MediaMaker Calculator API\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwB8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:44:20.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMakerCalculatorAPI.UnitTests\\CalculatorServiceTests.cs",
+              "RelativeDocumentMoniker": "MediaMakerCalculatorAPI.UnitTests\\CalculatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMakerCalculatorAPI.UnitTests\\CalculatorServiceTests.cs",
+              "RelativeToolTip": "MediaMakerCalculatorAPI.UnitTests\\CalculatorServiceTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:56:28.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "MediaMaker Calculator API\\Services\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "MediaMaker Calculator API\\Services\\CalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:52:43.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MediaMaker Calculator API.http",
+              "DocumentMoniker": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\MediaMaker Calculator API.http",
+              "RelativeDocumentMoniker": "MediaMaker Calculator API\\MediaMaker Calculator API.http",
+              "ToolTip": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\MediaMaker Calculator API.http",
+              "RelativeToolTip": "MediaMaker Calculator API\\MediaMaker Calculator API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-17T15:21:15.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\CalculationRequest.cs",
+              "RelativeDocumentMoniker": "MediaMaker Calculator API\\CalculationRequest.cs",
+              "ToolTip": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\CalculationRequest.cs",
+              "RelativeToolTip": "MediaMaker Calculator API\\CalculationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:07:01.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\Services\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "MediaMaker Calculator API\\Services\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\Services\\ICalculatorService.cs",
+              "RelativeToolTip": "MediaMaker Calculator API\\Services\\ICalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:04:01.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\Program.cs",
+              "RelativeDocumentMoniker": "MediaMaker Calculator API\\Program.cs",
+              "ToolTip": "C:\\Users\\harp1\\source\\repos\\MediaMaker Calculator API\\MediaMaker Calculator API\\Program.cs",
+              "RelativeToolTip": "MediaMaker Calculator API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:43:47.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
