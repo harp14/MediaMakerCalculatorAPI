@@ -1,0 +1,6 @@
+@RestfulWebAPICalculator_HostAddress = http://localhost:5137
+
+POST {{RestfulWebAPICalculator_HostAddress}}/calculator/add
+Accept: application/json
+
+###
