@@ -11,6 +11,17 @@ namespace RestfulWebAPICalculator
             // Add services to the container.
             builder.Services.AddScoped<ICalculatorService, CalculatorService>();
             builder.Services.AddControllers();
+            
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAngularApp",
+                    policy =>
+                    {
+                        policy.WithOrigins("http://localhost:4200") // Allow only this origin
+                            .AllowAnyHeader()
+                            .AllowAnyMethod();
+                    });
+            });
 
             builder.Services.AddAuthentication();
 
@@ -32,6 +43,7 @@ namespace RestfulWebAPICalculator
 
             app.UseAuthorization();
 
+            app.UseCors("AllowAngularApp");
 
             app.MapControllers();
 
